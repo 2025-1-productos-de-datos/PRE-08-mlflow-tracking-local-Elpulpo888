@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\Felipe\Documents\productoDatos\PRE-08-mlflow-tracking-local-Elpulpo888\my_mlruns/293800552956162391
+creation_time: 1748100689477
+experiment_id: '293800552956162391'
+last_update_time: 1748100689477
+lifecycle_stage: active
+name: wine_quality_experiment

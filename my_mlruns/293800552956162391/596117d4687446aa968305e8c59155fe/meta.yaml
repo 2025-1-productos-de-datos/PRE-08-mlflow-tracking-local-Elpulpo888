@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\Felipe\Documents\productoDatos\PRE-08-mlflow-tracking-local-Elpulpo888\my_mlruns/293800552956162391/596117d4687446aa968305e8c59155fe/artifacts
+end_time: 1748100690202
+entry_point_name: ''
+experiment_id: '293800552956162391'
+lifecycle_stage: active
+run_id: 596117d4687446aa968305e8c59155fe
+run_name: knn_85a5b51d
+run_uuid: 596117d4687446aa968305e8c59155fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748100690076
+status: 3
+tags: []
+user_id: Felipe
